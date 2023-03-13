@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there 👋
+My name is Abdulhamid Sanusi,
+👷 A Mechatronics Engineering Undergrad
+🌱 I'm currently learning to become a Software Engineer at ALx Africa
+👨‍💻 Currently working with C, Python, SQL, HTML, CSS programming languages.
+Connect with me >> Junaydbros
 
-<!--
-**Junaydbros/Junaydbros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
